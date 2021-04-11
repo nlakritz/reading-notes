@@ -569,6 +569,43 @@ by Carol Coye Benson, Scott Loftesness, and Russ Jones
 - Revolutionary innovation is uncommon, especially by existing companies; rather, evolutionary change occurs frequently for existing products and services
 - Focus on the job that needs to get done, not the solution, and keep things simple
 
+- Payment Initiation -> Funding -> Completion
+    - Innovation usually happens in the payment initiation step
+        - Contactless cards
+        - PayPal (uses email addresses)
+
+- Unilateral change is much easier to achieve, although bilateral may be required depending on the innovation
+    - Unilateral examples
+        - Gift cards (acquirer provides program to merchant)
+        - Starbucks mobile pay (merchant provides to customers)
+        - Square terminal (Square provides merchant)
+    - Bilateral example
+        - Square Wallet needed separate adoption by both merchant and customer, which ultimately failed
+
+- Technology
+    - Cloud services - enable new companies to get started easier
+    - APIs
+    - App stores: assist in distribution
+    - Open source
+    - Machine learning - detect fraud, control bots, optimize marketing
+    - Voice assistants
+    - Crypto - global currency
+    - Blockchain
+    - Invisible payments: Uber
+    - Marketplaces - require a 3rd-party platform operator
+    - Data security
+
+- Business approaches combine with technology to form innovation
+    - EMV technology lead to new standards and rules
+    - Visa and Mastercard going public allowed for more innovation
+    - Gift cards allowed for a more automated process than gift certificates
+
+- Keys to Success
+    - Bilateral change requires sufficient interest from both parties
+    - Ensure a solid economic model
+    - Plan for scale, and *start off* reliable and trustworthy (don't launch in beta)
+    - Understand laws, which change frequently and vary based on region
+
 
 
 
